@@ -1,0 +1,16 @@
+# Thư mục build của STM32CubeIDE
+Debug/
+Release/
+
+# Các file đối tượng và file thực thi sinh ra khi biên dịch
+*.o
+*.d
+*.elf
+*.map
+*.su
+*.hex
+*.bin
+*.list
+
+# File cấu hình workspace cá nhân
+.metadata/
