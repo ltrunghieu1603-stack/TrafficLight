@@ -1,2 +1,0 @@
-dht20.c:9:6:dht20_init	16	static
-dht20.c:14:6:dht20_task_update	40	static
