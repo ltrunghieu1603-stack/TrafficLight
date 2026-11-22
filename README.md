@@ -1,4 +1,4 @@
-# Hệ thống Điều khiển Đèn Giao Thông Thông Minh (CO3009)
+# Hệ thống Điều khiển Đèn Giao Thông Thông Minh 
 
 ## 1. Thành viên nhóm
 - **Lê Trung Hiếu** - MSSV: 2410989
