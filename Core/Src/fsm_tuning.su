@@ -1,0 +1,2 @@
+fsm_tuning.c:5:13:blink_lights	16	static
+fsm_tuning.c:19:6:fsm_tuning_run	8	static
